@@ -1,0 +1,25 @@
+.site-bg-navbar {
+    background: #5565aa;
+}
+
+#navbarNav .navbar-nav .nav-item {
+    font-size: 0.8em;
+}
+
+#nav-info .navbar{
+    background: #6858a6;
+}
+
+
+#nav-info .navbar ul li a{
+    color: #fff;
+}
+
+.nav-header {
+    font-weight: bold;
+}
+
+.text-money {
+    color: rgb(34, 94, 34);
+    font-size: 1.5em;
+}
